@@ -7,8 +7,12 @@
   "author": "Nemanja Nedeljkovic <nemanjan00@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "./node_modules/.bin/forever app.js"
+  },
   "dependencies": {
     "express": "^4.16.3",
+    "forever": "^0.15.3",
     "request": "^2.85.0",
     "rss": "^1.2.2",
     "xml2js": "^0.4.19"
