@@ -1,0 +1,10 @@
+{
+  "name": "instagram-blog-rss",
+  "version": "0.0.0",
+  "description": "RSS Feed for instagram business blog. ",
+  "main": "app.js",
+  "repository": "https://github.com/nemanjan00/instagram-blog-rss",
+  "author": "Nemanja Nedeljkovic <nemanjan00@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
