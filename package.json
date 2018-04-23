@@ -8,6 +8,8 @@
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "request": "^2.85.0",
+    "rss": "^1.2.2"
   }
 }
