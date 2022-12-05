@@ -11,7 +11,7 @@
     "start": "./node_modules/.bin/forever app.js"
   },
   "dependencies": {
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "forever": "^0.15.3",
     "request": "^2.85.0",
     "rss": "^1.2.2",
